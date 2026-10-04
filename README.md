@@ -1,3 +1,12 @@
+# Note
+This is a fork of Wyze3306/BedrockOnLinux containing various fixes in the GUI.
+## Roadmap
+* GUI Fixes
+* System tray implementation
+* Improved PKGBUILD (Arch Linux)
+### The original README.md starts here
+-----------------------------------------------
+
 <div align="center">
 
 # 🟩 BedrockOnLinux
